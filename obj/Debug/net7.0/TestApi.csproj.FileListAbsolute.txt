@@ -1,0 +1,110 @@
+D:\study\project example\TestApi\bin\Debug\net7.0\appsettings.Development.json
+D:\study\project example\TestApi\bin\Debug\net7.0\appsettings.json
+D:\study\project example\TestApi\bin\Debug\net7.0\TestApi.exe
+D:\study\project example\TestApi\bin\Debug\net7.0\TestApi.deps.json
+D:\study\project example\TestApi\bin\Debug\net7.0\TestApi.runtimeconfig.json
+D:\study\project example\TestApi\bin\Debug\net7.0\TestApi.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\TestApi.pdb
+D:\study\project example\TestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.csproj.AssemblyReference.cache
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.AssemblyInfoInputs.cache
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.AssemblyInfo.cs
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.csproj.CoreCompileInputs.cache
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\study\project example\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.TestApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\project example\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TestApi.props
+D:\study\project example\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestApi.props
+D:\study\project example\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestApi.props
+D:\study\project example\TestApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\study\project example\TestApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\study\project example\TestApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\study\project example\TestApi\obj\Debug\net7.0\scopedcss\bundle\TestApi.styles.css
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.csproj.CopyComplete
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.dll
+D:\study\project example\TestApi\obj\Debug\net7.0\refint\TestApi.dll
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.pdb
+D:\study\project example\TestApi\obj\Debug\net7.0\TestApi.genruntimeconfig.cache
+D:\study\project example\TestApi\obj\Debug\net7.0\ref\TestApi.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\EntityFramework.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\project example\TestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\appsettings.Development.json
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\appsettings.json
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\TestApi.exe
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\TestApi.deps.json
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\TestApi.runtimeconfig.json
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\TestApi.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\TestApi.pdb
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\EntityFramework.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\Code_Github\aspdotnet_testApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.csproj.AssemblyReference.cache
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.AssemblyInfoInputs.cache
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.AssemblyInfo.cs
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.csproj.CoreCompileInputs.cache
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\staticwebassets\msbuild.TestApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TestApi.props
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestApi.props
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestApi.props
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\scopedcss\bundle\TestApi.styles.css
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.csproj.CopyComplete
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.dll
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\refint\TestApi.dll
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.pdb
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\TestApi.genruntimeconfig.cache
+D:\study\Code_Github\aspdotnet_testApi\obj\Debug\net7.0\ref\TestApi.dll
